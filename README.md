@@ -12,6 +12,7 @@
 
 
 <br>
+<hr>
 
 <h2>Simulation</h2>
 <p>This simulation contains abstractions and an implementation of the double slit experiment in which electrons behave like particles only. It goes to show that duality is needed to observe a diffraction pattern.</p>
